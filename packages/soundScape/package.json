@@ -1,6 +1,6 @@
 {
   "name": "@momogoyo/sound-scape",
-  "version": "1.0.10",
+  "version": "1.0.0",
   "type": "module",
   "types": "./types/index.d.ts",
   "main": "./dist/soundScape.umd.cjs",
